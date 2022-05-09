@@ -8,7 +8,7 @@ This analysis has been conducted to determine the temperature trends for the mon
 
 ### June Summary Statistics for Temperature Trends
 
-![June Summary Statistics](Resources/June Summary Statistics.PNG)
+![June Summary Statistics](Resources/june_summary_stats.png)
 
 ![June Histogram of Temp Trends](Resrouces/June Histogram.PNG)
 
