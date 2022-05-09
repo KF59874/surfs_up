@@ -10,20 +10,20 @@ This analysis has been conducted to determine the temperature trends for the mon
 
 ![June Summary Statistics](Resources/june_summary_stats.png)
 
-![June Histogram of Temp Trends](Resrouces/June Histogram.PNG)
+![June Histogram of Temp Trends](Resrouces/june_histogram.PNG)
 
 ### December Summary Statistics for Temperature Trends
 
-![December Summary Statistics](Resources/December Summary Statistics.PNG)
+![December Summary Statistics](Resources/december_summary_stats.png)
 
-![December Histogram of Temp Trends](Resources/December Histogram.PNG)
+![December Histogram of Temp Trends](Resources/december_histrogram.PNG)
 
 ### Key Takeaways
 - The average temperature in June was 75°F, while in December it was approx. 71°F. 
 - The minimum temperature in June was 64°F, and in December it was 56°F.
 - The maximum temperature in June was  84°F, and in December it was 83°F.
 
-![June and December Summary Statistics](Resources/June and December Stats.png)
+![June and December Summary Statistics](Resources/june_and_dec_stats.PNG)
 
 
 ## Summary 
@@ -40,5 +40,7 @@ Even though the temperature drop is lower in December than in June, it is wise t
 Given the temperature trends for both June and December, it is recommended to open a Surf and Ice Cream Shop in Oahu, Hawaii. This analysis suggests that there is a strong likelihood of success of the business all year round. 
 
 Something else to consider however, is also the location in Oahu. To find the optimal location, an additional query has been conducted to show the different stations given in Oahu and what the temperatures trends are like for June and December. 
+
+![June and December - Stations and Temperatures](Resources/stations.PNG)
 
 Overall, it is highly recommended to open the Surf and Ice Cream Shop. 
