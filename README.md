@@ -8,15 +8,15 @@ This analysis has been conducted to determine the temperature trends for the mon
 
 ### June Summary Statistics for Temperature Trends
 
-![June Summary Statistics](Resources/June Summary Statistics.png)
+![June Summary Statistics](Resources/June Summary Statistics.PNG)
 
-![June Histogram of Temp Trends](Resrouces/June Histogram.png)
+![June Histogram of Temp Trends](Resrouces/June Histogram.PNG)
 
 ### December Summary Statistics for Temperature Trends
 
-![December Summary Statistics](Resources/December Summary Statistics.png)
+![December Summary Statistics](Resources/December Summary Statistics.PNG)
 
-![December Histogram of Temp Trends](Resources/December Histogram.png)
+![December Histogram of Temp Trends](Resources/December Histogram.PNG)
 
 ### Key Takeaways
 - The average temperature in June was 75°F, while in December it was approx. 71°F. 
