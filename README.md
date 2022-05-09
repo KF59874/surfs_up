@@ -39,4 +39,6 @@ Even though the temperature drop is lower in December than in June, it is wise t
 
 Given the temperature trends for both June and December, it is recommended to open a Surf and Ice Cream Shop in Oahu, Hawaii. This analysis suggests that there is a strong likelihood of success of the business all year round. 
 
-Something else to consider however, is also the location in Oahu. To find the optimal location, an additional query has been conducted to show the different stations fiven for 
+Something else to consider however, is also the location in Oahu. To find the optimal location, an additional query has been conducted to show the different stations given in Oahu and what the temperatures trends are like for June and December. 
+
+Overall, it is highly recommended to open the Surf and Ice Cream Shop. 
